@@ -1,4 +1,4 @@
-## Random Quotes Generator
+## Quotes Generator
 
 ```bash
 
